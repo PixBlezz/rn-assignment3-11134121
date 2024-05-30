@@ -23,4 +23,28 @@ Usage: Adds a pressable element for user interactions. Pressable can be styled a
 Usage: Efficiently renders large lists of data. FlatList is used for simple, flat lists, whereas SectionList is used for lists with section headers. Both components support various optimizations like lazy loading, item reuse, and more for performance enhancement.
 8. Image
 Usage: Displays images and icons in the app. Image components can be sourced from local files or remote URLs and styled to fit the design needs, including resizing, aspect ratio management, and more.
+## catogory
+Exercise
+Study
+Code
+Cook
+book
+visit
+wash
+programs
+
+## Ongoing Task
+1.Mobile App development
+2.web development
+3.python development
+4.java development
+5.flutter development
+6.html development
+7.game development
+8.networking
+9.app development 
+1o.andriod development
+11.js development 
+12.css development
+
 # SET UP FOR THE PROJECT 
